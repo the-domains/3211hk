@@ -1,0 +1,38 @@
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.9474136049393564
+  lightness: 0.927675960585475
+  saturation: 0.21096691605634987
+  rhythmicContrast: 0.7334645004011691
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: 3211.hk
+layout_spectrum: 0.81541358679533
+typography_spectrum: 0.9175195842981339
+content: []
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b13ab3-2a1d-4bf1-b374-88e1a7801c9e.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3354367e-65c9-438b-bee4-f52c3fe8b27a.png
+url: 'https://thegrid.ai/boat.vc/'
+author:
+  name: HuSir
+  email: yygw_8@yeah.net
+analytics:
+  google: 7669366@gmail.com
+  facebook: 7669366@gmail.com
+  twitter: 7669366@gmail.com
+opengraph:
+  type: 7669366@gmail.com
+  appId: 7669366@gmail.com
